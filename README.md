@@ -1,7 +1,3 @@
-# Breast-Cancer-Classification-with-NN
-#!/bin/bash
-
-cat << 'EOF' > README.md
 #  Breast Cancer Classification with Neural Network
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
