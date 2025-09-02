@@ -2,7 +2,7 @@
 #!/bin/bash
 
 cat << 'EOF' > README.md
-# 🩺 Breast Cancer Classification with Neural Network
+#  Breast Cancer Classification with Neural Network
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
@@ -12,13 +12,13 @@ cat << 'EOF' > README.md
 
 ---
 
-## 📌 Overview
+##  Overview
 This project is a **Data Science & Machine Learning application** that classifies breast cancer tumors as **benign (non-cancerous)** or **malignant (cancerous)** using a **Neural Network (NN)** built with TensorFlow/Keras.  
 The goal is to assist in **early cancer detection** through predictive modeling.  
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))  
 - **Samples:** 569  
 - **Features:** 30 numeric features (radius, texture, smoothness, etc.)  
@@ -28,7 +28,7 @@ The goal is to assist in **early cancer detection** through predictive modeling.
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 The project requires the following dependencies:
 
 \`\`\`
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 \`\`\`
 breast-cancer-classification/
 │── breast_cancer_nn.py        # Main script for training and evaluation
@@ -66,10 +66,10 @@ breast-cancer-classification/
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/your-username/breast-cancer-classification.git
+   git clone https://github.com/kajalkumari13/breast-cancer-classification.git
    cd breast-cancer-classification
    \`\`\`
 
@@ -87,7 +87,7 @@ breast-cancer-classification/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 Run the main script to train and evaluate the Neural Network:
 
 \`\`\`bash
@@ -102,7 +102,7 @@ This will:
 
 ---
 
-## 📈 Results
+##  Results
 - The Neural Network achieves **95–98% accuracy** on test data.  
 
 ### Example Outputs:
@@ -117,7 +117,7 @@ This will:
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 - Compare with ML algorithms like **SVM, Random Forest, XGBoost**  
 - Perform **Hyperparameter Tuning** (GridSearchCV, Optuna)  
 - Deploy as a **Flask/Streamlit web app** for real-time predictions  
@@ -125,6 +125,6 @@ This will:
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 - Dataset: [UCI Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))  
 - Libraries: scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn  
