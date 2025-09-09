@@ -53,6 +53,11 @@ The project demonstrates how **Artificial Intelligence** can be applied in the h
 
 ---
 
+## Building the Neural Network
+The neural network used in this project:
+
+---
+
 ##  Example Output
 
 ### Training Performance
@@ -71,6 +76,12 @@ The project demonstrates how **Artificial Intelligence** can be applied in the h
 |-----------|-----------|--------|----------|
 | Malignant | 0.95      | 0.97   | 0.96     |
 | Benign    | 0.96      | 0.94   | 0.95     |
+
+---
+
+## Training Visualization
+Model Accuracy
+Model Loss
 
 ---
 
