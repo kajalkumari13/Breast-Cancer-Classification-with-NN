@@ -55,6 +55,8 @@ The project demonstrates how **Artificial Intelligence** can be applied in the h
 
 ## Building the Neural Network
 The neural network used in this project:
+![Neural Network](images/nn_structure.png)
+
 
 ---
 
