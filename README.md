@@ -17,7 +17,7 @@ The project demonstrates how **Artificial Intelligence** can be applied in the h
 ##  Features
 - End-to-end workflow: Data cleaning → preprocessing → modeling → evaluation.  
 - Uses **Neural Networks with TensorFlow/Keras**.  
-- Achieves **95% accuracy** in just **13 epochs**.  
+- Achieves **95% accuracy** in just **10 epochs**.  
 - Generates **visualizations** (heatmap, histograms, class distribution).  
 - Provides **confusion matrix and classification report** for evaluation.  
 - Flexible and easy to extend (try new layers, optimizers, or other ML models).  
@@ -47,7 +47,7 @@ The project demonstrates how **Artificial Intelligence** can be applied in the h
 - **Train Model:**  
   - Optimizer: Adam.  
   - Loss: Binary Crossentropy.  
-  - EarlyStopping → Stopped at 13 epochs.  
+  - EarlyStopping → Stopped at 10 epochs.  
 - **Evaluate:** Accuracy, confusion matrix, classification report.  
 - **Visualize:** Plots of features, correlations, and training performance.  
 
@@ -162,7 +162,7 @@ This project aims to create a predictive model that classifies tumors as **benig
 - Seaborn  
 
 ---
-## ⚙ Install All Dependencies
+##  Install All Dependencies
 
 pip install -r requirements.txt
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
@@ -188,7 +188,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ##  Conclusion
 
-This project demonstrates that a **Neural Network can classify breast cancer tumors with 95% accuracy in only 13 epochs.**  
+This project demonstrates that a **Neural Network can classify breast cancer tumors with 95% accuracy in only 10 epochs.**  
 The model is efficient, accurate, and interpretable with supporting charts and reports.  
 
 AI solutions like this can support medical professionals in decision-making, leading to faster, more reliable cancer diagnosis.
