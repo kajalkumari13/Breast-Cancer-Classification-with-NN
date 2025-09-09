@@ -8,7 +8,7 @@
 
 ##  Overview
 This project implements a **Neural Network model** to classify breast cancer tumors as **benign** (non-cancerous) or **malignant** (cancerous) using the **Breast Cancer Wisconsin Diagnostic dataset**.  
-The model is designed to achieve **high accuracy (~95%)** while training efficiently (only **13 epochs** with EarlyStopping).  
+The model is designed to achieve **high accuracy (~95%)** while training efficiently (only **10 epochs** with EarlyStopping).  
 
 The project demonstrates how **Artificial Intelligence** can be applied in the healthcare domain to assist doctors with **early detection and diagnosis**.  
 
